@@ -1,0 +1,13 @@
+*.suo
+*.user
+.idea/
+.vs/
+[Bb]in/
+[Oo]bj/
+_UpgradeReport_Files/
+[Pp]ackages/
+
+# My ingore configs
+
+UpdatesOptimization/appsettings.json
+UpdatesOptimization/appsettings.Development.json
